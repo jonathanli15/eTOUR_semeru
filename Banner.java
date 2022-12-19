@@ -30,7 +30,6 @@ import unisa.gps.etour.gui.operatoreagenzia.tables.BannerRenderer;
 
 public class JInternalFrame extends Banner
 (
-
 private JPanel jContentPane = null;
 private JPanel rightPanel = null;
 Private JToolBar bannerToolbar = null;

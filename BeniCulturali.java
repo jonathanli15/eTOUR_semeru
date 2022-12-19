@@ -1,5 +1,4 @@
-﻿	
-package unisa.gps.etour.gui.operatoreagenzia;
+﻿package unisa.gps.etour.gui.operatoreagenzia;
 
 import java.awt .*;
 import java.awt.event .*;
